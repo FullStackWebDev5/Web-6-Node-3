@@ -54,6 +54,7 @@ app.listen(process.env.PORT, () => {
 
 
 /*
+  -------------------------------------------
     MERN: 
     - M: MongoDB
     - E: Express
